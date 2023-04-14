@@ -1,5 +1,5 @@
 # git-bash-repository-example
-My first Git Bash Hello World repository.
+My sandbox Git Bash Hello World repository.
 This is an example repository for the Git tutoial.
 This repository is built step by step.
 
