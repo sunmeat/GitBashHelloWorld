@@ -1,0 +1,22 @@
+git --version
+git config --global user.name "sunmeat"
+git config --global user.email "sunmeatrich@gmail.com"
+mkdir C:/git
+mkdir C:/git/project1
+cd C:/git/project1
+git init // создание репозитория
+
+============================================================================
+
+создаём файл index.html в этой папке
+ls // список файлов текущей папки
+git status // просмотр состояния файлов в папке репозитория (tracked - добавлены в репозиторий, untracked - есть в папке, но не в репозитории)
+git add index.html // добавить файл в Staging Environment
+git add "git commands.txt"
+git status
+создаём ещё 2 файла, README.md и bluestyle.css, вносим правки в index.html
+git add --all // добавить все файлы в Staging Environment
+
+============================================================================
+
+
