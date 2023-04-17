@@ -1,0 +1,13 @@
+создаём новый репозиторий на сайте гитхаба
+копируем HTTPS!!! URL (quick setup if you are done this kind of thing before)
+git remote add origin https://github.com/sunmeat/hello-world.git // git remote add origin URL specifies that you are adding a remote repository, with the specified URL, as an origin to your local Git repo.
+
+git push --set-upstream origin master
+
+===========================================================
+
+git fetch origin // fetch gets all the change history of a tracked branch/repo
+git merge origin/master // merge combines the current branch, with a specified branch
+git pull origin // pull is a combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on
+
+
