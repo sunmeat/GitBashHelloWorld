@@ -28,5 +28,3 @@ git log // список всех коммитов
 
 git status -help
 git help --all
-
-ЗАЙКА
